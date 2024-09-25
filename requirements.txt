@@ -1,0 +1,14 @@
+streamlit
+langchain-ollama
+langchain-core
+langchain-community
+typing_extensions
+langgraph
+langchain_experimental
+elevenlabs
+sentence-transformers
+unstructured
+fastembed
+chromadb
+reportlab
+pdfplumber
