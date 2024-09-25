@@ -57,7 +57,7 @@ By the end of this article, you’ll have a roadmap for creating your own AI-pow
 
 **Install Project Dependencies:**
 
-Follow these steps to set up and run the 'Lets Build Lead Generation Startup Using AI Agents' project:
+Follow these steps to set up and run the 'Simple Educational Startup Using AI Agents' project:
 
 1. Navigate to your project directory:
    ```
@@ -72,13 +72,13 @@ Follow these steps to set up and run the 'Lets Build Lead Generation Startup Usi
    This command installs all the necessary Python packages listed in the requirements.txt file.
 
 
-## Run - Lets Build Lead Generation Startup Using AI Agents
+## Run - Simple Educational Startup Using AI Agents
 
-    huggingface-cli login --token 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
+    huggingface-cli login --token <HF_TOKEN>
 
    ```bash 
         
-      # Run Lets Build Lead Generation Startup Using AI Agents
+      # Run Simple Educational Startup Using AI Agents
       streamlit run src/main.py
       
    ```
